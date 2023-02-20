@@ -25,7 +25,7 @@ The following is a list of useful links for computational design
 
 
 ## General Tutorials
-✏ - ThinkParametric - A collection of high quality, hands on, examples using grasshopper and revit https://www.thinkparametric.com/
+✏ - ThinkParametric - A collection of high quality, hands on, examples using grasshopper and revit (https://www.thinkparametric.com/)
 
 ## Grasshopper
 
