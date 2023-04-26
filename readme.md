@@ -37,8 +37,8 @@ The following is a list of useful links for learning computational design! This 
 
 
 ## Structural Resources
-- 💻 - planeSections - A library for analzing and making beam diagrams in Python (https://github.com/cslotboom/planesections)
-- ⚡ - Structural Python - A collection of structural focused python repositories (https://github.com/StructuralPython)
+💻 - planeSections - A library for analzing and making beam diagrams in Python (https://github.com/cslotboom/planesections)
+⚡ - Structural Python - A collection of structural focused python repositories (https://github.com/StructuralPython)
 
 ## Architecture Resources
 
