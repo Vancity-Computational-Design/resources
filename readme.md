@@ -26,6 +26,7 @@ The following is a list of useful links for learning computational design! This 
 
 ## General Tutorials
 ✏ - ThinkParametric - A collection of high quality, hands on, examples using grasshopper and revit (https://www.thinkparametric.com/)
+
 🚀 - Museo Soumaya: Facade Design to Fabrication - The Soumaya uses custering techniques to size panels for a  dynamic facade with two-way curvature (https://issuu.com/gehrytech/docs/sou_06_issuu_version)
 
 ## Grasshopper
@@ -38,6 +39,7 @@ The following is a list of useful links for learning computational design! This 
 
 ## Structural Resources
 💻 - planeSections - A library for analzing and making beam diagrams in Python (https://github.com/cslotboom/planesections)
+
 ⚡ - Structural Python - A collection of structural focused python repositories (https://github.com/StructuralPython)
 
 ## Architecture Resources
