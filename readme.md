@@ -30,25 +30,33 @@ The following is a list of useful links for learning computational design! This 
 ## Grasshopper
 
 
+
 ## Geometric Math
 
 
 
 ## Structural Resources
 - 💻 - planeSections - A library for analzing and making beam diagrams in Python (https://github.com/cslotboom/planesections)
-- ⚡ - Structural Python - A collection of structural focused repositories (https://github.com/StructuralPython)
+- ⚡ - Structural Python - A collection of structural focused python repositories (https://github.com/StructuralPython)
 
 ## Architecture Resources
 
 
-## Coding
+## Software Development
+✏ - MIT Open courseware, Design and Analysis of Algorithms - A course that overviews the basics of algorithms and their design. (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
+
 
 ### Python
-💻 - handcalcs - A library for rendering calculations in laytex(https://github.com/connorferster/handcalcs)
+💻 - handcalcs - A library for rendering calculations in laytex (https://github.com/connorferster/handcalcs)
 
 ### C#
 
-### Javascript
+### Javascript General
+
+### Javascript - 3JS
+3JS is a open source library for rendering
+
 ⚡ 3JS - A opensource 3D rendering Library (https://threejs.org/)
 
 ## Optimization and AI
