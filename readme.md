@@ -26,6 +26,7 @@ The following is a list of useful links for learning computational design! This 
 
 ## General Tutorials
 ✏ - ThinkParametric - A collection of high quality, hands on, examples using grasshopper and revit (https://www.thinkparametric.com/)
+🚀 - Museo Soumaya: Facade Design to Fabrication - The Soumaya uses custering techniques to size panels for a  dynamic facade with two-way curvature (https://issuu.com/gehrytech/docs/sou_06_issuu_version)
 
 ## Grasshopper
 
@@ -55,8 +56,8 @@ The following is a list of useful links for learning computational design! This 
 ### Javascript General
 
 ### Javascript - 3JS
-3JS is a open source library for rendering
+3JS is a opensource library for rendering 3D objects on in the browser (https://threejs.org/)
 
-⚡ 3JS - A opensource 3D rendering Library (https://threejs.org/)
+🚀 - A curated list of Examples (https://threejs.org/examples/) 
 
 ## Optimization and AI
