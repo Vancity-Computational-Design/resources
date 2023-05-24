@@ -1,9 +1,9 @@
 # Overview
 The following is a list of useful links for learning computational design! This is a living document and content is always being added
 
-📚 - textbook
+📚 - textbook / course notes
 
-✏ - courses
+🎓 - courses / tutorial
 
 ⚡ - project (generally larger code project contains code + examples)
 
@@ -24,41 +24,47 @@ The following is a list of useful links for learning computational design! This 
 * [Optimization and AI](https://github.com/Vancity-Computational-Design/resources#optimization-and-ai)
 
 
-## General Tutorials
-✏ - ThinkParametric - A collection of high quality, hands on, examples using grasshopper and revit (https://www.thinkparametric.com/)
+## General Tutorials and Case Studies
+🎓 - [ThinkParametric](https://www.thinkparametric.com/) - A paid service with many high quality hands on examples using grasshopper and revit.
 
-🚀 - Museo Soumaya: Facade Design to Fabrication - The Soumaya uses custering techniques to size panels for a  dynamic facade with two-way curvature (https://issuu.com/gehrytech/docs/sou_06_issuu_version)
+🚀 - [Museo Soumaya: Facade Design to Fabrication](https://issuu.com/gehrytech/docs/sou_06_issuu_version) - The Soumaya uses custering techniques to size panels for a  dynamic facade with two-way curvature 
 
-## Grasshopper
+### Grasshopper
 
+### Dynamo
 
+### Revit
 
 ## Geometric Math
+📚 - [Notes](https://www.cs.umd.edu/~mount/754/Lects/754lects.pdf) from CMSC 754 computational geometry 
 
-
+📚 - A [Curated](https://github.com/atkirtland/awesome-computational-geometry) list of computational geometry/math topics.
 
 ## Structural Resources
-💻 - planeSections - A library for analzing and making beam diagrams in Python (https://github.com/cslotboom/planesections)
+💻 - [planeSections](https://github.com/cslotboom/planesections) - A library for analzing and making beam diagrams in Python 
 
-⚡ - Structural Python - A collection of structural focused python repositories (https://github.com/StructuralPython)
+⚡ - [Structural Python](https://github.com/StructuralPython) - A collection of structural focused python repositories 
 
 ## Architecture Resources
 
 
 ## Software Development
-✏ - MIT Open courseware, Design and Analysis of Algorithms - A course that overviews the basics of algorithms and their design. (https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+🎓 - [MIT Open courseware](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/), Design and Analysis of Algorithms - A course that overviews the basics of algorithms and their design. 
 
+🎓 - [Clean Code](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj), Robert C. Martin ("Uncle Bob")'s philosphy on how to program better.
 
 
 ### Python
-💻 - handcalcs - A library for rendering calculations in laytex (https://github.com/connorferster/handcalcs)
+💻 - [handcalcs](https://github.com/connorferster/handcalcs) - A library for rendering calculations in laytex 
+
+🎓 - [Arjan Codes](https://www.youtube.com/@ArjanCodes) - Intermediate to advanced python youtube tutorials, focusing on "clean code".
 
 ### C#
 
 ### Javascript General
 
 ### Javascript - 3JS
-3JS is a opensource library for rendering 3D objects on in the browser (https://threejs.org/)
+[3JS](https://threejs.org/) is a opensource library for rendering 3D objects on in the browser 
 
 🚀 - A curated list of Examples (https://threejs.org/examples/) 
 
