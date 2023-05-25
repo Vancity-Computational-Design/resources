@@ -11,7 +11,6 @@ The following is a list of useful links for learning computational design! This 
 
 💻 - github repository
 
-🎉
 
 ## Contents
 
