@@ -1,5 +1,5 @@
 # Overview
-The following is a list of useful links for learning computational design! This is a living document and content is always being added
+The following is a list of useful links for learning computational design! This is a living document and content is always being added.
 
 📚 - textbook / course notes
 
