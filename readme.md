@@ -44,6 +44,8 @@ The following is a list of useful links for learning computational design! This 
 
 ⚡ - [Structural Python](https://github.com/StructuralPython) - A collection of structural focused python repositories 
 
+💻 - [Mechanics resources](https://github.com/angelsolaorbaiceta/Mechanics) - A collection of mechanics python packages
+
 ## Architecture Resources
 
 
